@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD936FE3-9560-4B05-A41B-28131BB3BE37}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>prj_wfrm_centreCall_tickets</RootNamespace>
+    <AssemblyName>prj_wfrm_centreCall_tickets</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmNouveauTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNouveauTicket.Designer.cs">
+      <DependentUpon>frmNouveauTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTicketClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTicketClient.Designer.cs">
+      <DependentUpon>frmTicketClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatTicketClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatTicketClient.Designer.cs">
+      <DependentUpon>frmStatTicketClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatTicketCentre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatTicketCentre.Designer.cs">
+      <DependentUpon>frmStatTicketCentre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTicketsAfficherNonCloturés.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTicketsAfficherNonCloturés.Designer.cs">
+      <DependentUpon>frmTicketsAfficherNonCloturés.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmContratAfficherDépassé.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContratAfficherDépassé.Designer.cs">
+      <DependentUpon>frmContratAfficherDépassé.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmContratAfficherExpiré.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContratAfficherExpiré.Designer.cs">
+      <DependentUpon>frmContratAfficherExpiré.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClientNafAfficher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientNafAfficher.Designer.cs">
+      <DependentUpon>frmClientNafAfficher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClientCentreAfficher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientCentreAfficher.Designer.cs">
+      <DependentUpon>frmClientCentreAfficher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCentreAfficherTous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCentreAfficherTous.Designer.cs">
+      <DependentUpon>frmCentreAfficherTous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClientAfficherTous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClientAfficherTous.Designer.cs">
+      <DependentUpon>frmClientAfficherTous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNafAfficherTous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNafAfficherTous.Designer.cs">
+      <DependentUpon>frmNafAfficherTous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTechnicienAfficherTous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTechnicienAfficherTous.Designer.cs">
+      <DependentUpon>frmTechnicienAfficherTous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTicketAfficherTous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTicketAfficherTous.Designer.cs">
+      <DependentUpon>frmTicketAfficherTous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tab.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmNouveauTicket.resx">
+      <DependentUpon>frmNouveauTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatTicketCentre.resx">
+      <DependentUpon>frmStatTicketCentre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContratAfficherDépassé.resx">
+      <DependentUpon>frmContratAfficherDépassé.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContratAfficherExpiré.resx">
+      <DependentUpon>frmContratAfficherExpiré.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCentreAfficherTous.resx">
+      <DependentUpon>frmCentreAfficherTous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClientAfficherTous.resx">
+      <DependentUpon>frmClientAfficherTous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClientCentreAfficher.resx">
+      <DependentUpon>frmClientCentreAfficher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClientNafAfficher.resx">
+      <DependentUpon>frmClientNafAfficher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNafAfficherTous.resx">
+      <DependentUpon>frmNafAfficherTous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatTicketClient.resx">
+      <DependentUpon>frmStatTicketClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTechnicienAfficherTous.resx">
+      <DependentUpon>frmTechnicienAfficherTous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTicketAfficherTous.resx">
+      <DependentUpon>frmTicketAfficherTous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTicketClient.resx">
+      <DependentUpon>frmTicketClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTicketsAfficherNonCloturés.resx">
+      <DependentUpon>frmTicketsAfficherNonCloturés.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

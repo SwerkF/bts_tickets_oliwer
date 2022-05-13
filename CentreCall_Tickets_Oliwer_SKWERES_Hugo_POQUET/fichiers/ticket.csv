@@ -1,0 +1,26 @@
+N°intervention;dateTicket;n°client;objetTicket;Clôturé ?;DateCloture;nbHeures;n°Tech
+1;02/11/2020;22;Bug logiciel PrestaPlus;NON;;;
+2;02/11/2020;18;Panne serveur de fichiers;OUI;02/11/2020;5;2
+3;02/11/2020;29;Mise à jour antivirus;OUI;02/11/2020;1;7
+4;02/11/2020;25;Serveur web indisponible;OUI;03/11/2020;2;1
+5;02/11/2020;2;Imprimante hors connexion;OUI;02/11/2020;0.5;7
+6;02/11/2020;5;Aide utilisation logiciel PrestaPlus;OUI;02/11/2020;1;6
+7;02/11/2020;8;Mise à jour antivirus;OUI;02/11/2020;1;3
+8;02/11/2020;13;Panne routeur;OUI;03/11/2020;2;9
+9;02/11/2020;14;Serveur web indisponible;OUI;03/11/2020;2;10
+10;02/11/2020;20;Mise à jour antivirus;OUI;02/11/2020;1;3
+11;02/11/2020;21;Aide utilisation logiciel PrestaPlus;OUI;02/11/2020;1;6
+12;02/11/2020;24;Panne serveur de fichiers;NON;;;
+13;02/11/2020;25;Erreur dans les sauvegardes;NON;;;
+14;02/11/2020;9;Panne routeur;NON;;;
+15;02/11/2020;30;Mise à jour antivirus;OUI;02/11/2020;1;7
+16;03/11/2020;22;Panne routeur;OUI;03/11/2020;2;2
+17;03/11/2020;18;Panne serveur de fichiers;OUI;04/11/2020;3;5
+18;03/11/2020;21;Erreur dans les sauvegardes;OUI;03/11/2020;3;4
+19;03/11/2020;25;Bug logiciel PrestaPlus;NON;;;
+20;03/11/2020;13;Aide utilisation logiciel PrestaPlus;OUI;03/11/2020;2.5;8
+21;03/11/2020;9;Serveur web indisponible;OUI;03/11/2020;3;10
+22;04/11/2020;18;Mise à jour antivirus;OUI;04/11/2020;1;2
+23;04/11/2020;25;Panne serveur de fichiers;NON;;;
+24;04/11/2020;29;Aide utilisation logiciel PrestaPlus;OUI;04/11/2020;0.5;6
+25;04/11/2020;30;Imprimante hors connexion;OUI;04/11/2020;0.5;7

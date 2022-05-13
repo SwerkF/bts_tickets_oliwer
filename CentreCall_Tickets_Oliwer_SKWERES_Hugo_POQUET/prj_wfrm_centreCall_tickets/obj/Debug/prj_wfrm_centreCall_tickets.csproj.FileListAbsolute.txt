@@ -1,0 +1,88 @@
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe.config
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.pdb
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csprojAssemblyReference.cache
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmMenu.resources
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.Properties.Resources.resources
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.GenerateResource.cache
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.CoreCompileInputs.cache
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.exe
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.pdb
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmCentreAfficherTous.resources
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmNafAfficherTous.resources
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientAfficherTous.resources
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTechnicienAfficherTous.resources
+D:\_SIO\SIO_cours\bloc1\bloc1_MH_AP\AP5\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csprojAssemblyReference.cache
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.exe
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.pdb
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe.config
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.pdb
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmCentreAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmMenu.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmNafAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTechnicienAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.Properties.Resources.resources
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.GenerateResource.cache
+C:\Users\dalliers\Documents\BTS SIO\2020-2021\AP\Semestre 1\AP7\AP7\AP7_projet\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.CoreCompileInputs.cache
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe.config
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.pdb
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.AssemblyReference.cache
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.SuggestedBindingRedirects.cache
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmCentreAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmMenu.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmNafAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTechnicienAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketAfficherTous.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.Properties.Resources.resources
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.GenerateResource.cache
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.CoreCompileInputs.cache
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.exe
+C:\Users\dalliers\Documents\BTS SIO\2021-2022\AP\Semestre 2\03 - CentreCall Tickets\AP3\AP3_projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.pdb
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe.config
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.pdb
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.SuggestedBindingRedirects.cache
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmCentreAfficherTous.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientAfficherTous.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmMenu.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmNafAfficherTous.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTechnicienAfficherTous.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketAfficherTous.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.Properties.Resources.resources
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.GenerateResource.cache
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.CoreCompileInputs.cache
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.exe
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.pdb
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.AssemblyReference.cache
+E:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientNafAfficher.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe.config
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.exe
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\bin\Debug\prj_wfrm_centreCall_tickets.pdb
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.SuggestedBindingRedirects.cache
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmCentreAfficherTous.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientAfficherTous.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientNafAfficher.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmMenu.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmNafAfficherTous.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTechnicienAfficherTous.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketAfficherTous.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.Properties.Resources.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.GenerateResource.cache
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.CoreCompileInputs.cache
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.exe
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.pdb
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmClientCentreAfficher.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmContratAfficherExpiré.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmContratAfficherDépassé.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketsAfficherNonCloturés.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmStatTicketCentre.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmNouveauTicket.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmStatTicketClient.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.frmTicketClient.resources
+I:\C. Cours AP\AP 03 CentreCall Tickets\Projet\prj_wfrm_centreCall_tickets\obj\Debug\prj_wfrm_centreCall_tickets.csproj.AssemblyReference.cache
